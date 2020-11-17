@@ -1,0 +1,10 @@
+D:\OneDrive - Dunaújvárosi Egyetem\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\YinYangV2\YinYangV2\YinYangV2\obj\Debug\YinYangV2.csprojAssemblyReference.cache
+D:\OneDrive - Dunaújvárosi Egyetem\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\YinYangV2\YinYangV2\YinYangV2\obj\Debug\YinYangV2.Properties.Resources.resources
+D:\OneDrive - Dunaújvárosi Egyetem\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\YinYangV2\YinYangV2\YinYangV2\obj\Debug\YinYangV2.csproj.GenerateResource.cache
+D:\OneDrive - Dunaújvárosi Egyetem\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\YinYangV2\YinYangV2\YinYangV2\obj\Debug\YinYangV2.csproj.CoreCompileInputs.cache
+D:\OneDrive - Dunaújvárosi Egyetem\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\YinYangV2\YinYangV2\YinYangV2\bin\Debug\YinYangV2.exe.config
+D:\OneDrive - Dunaújvárosi Egyetem\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\YinYangV2\YinYangV2\YinYangV2\bin\Debug\YinYangV2.exe
+D:\OneDrive - Dunaújvárosi Egyetem\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\YinYangV2\YinYangV2\YinYangV2\bin\Debug\YinYangV2.pdb
+D:\OneDrive - Dunaújvárosi Egyetem\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\YinYangV2\YinYangV2\YinYangV2\obj\Debug\YinYangV2.exe
+D:\OneDrive - Dunaújvárosi Egyetem\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\YinYangV2\YinYangV2\YinYangV2\obj\Debug\YinYangV2.pdb
+D:\OneDrive - Dunaújvárosi Egyetem\Study\Fősuli\5. félév\Szoftverfejlesztési technológiák\YinYangV2\YinYangV2\YinYangV2\obj\Debug\RotatingPlane.Rotating.resources
